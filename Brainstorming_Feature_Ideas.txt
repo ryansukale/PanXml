@@ -1,0 +1,10 @@
+Table like horizontally sliding panel layout for hierarchy navigation horizontally instead of a vertical. Will need to se
+For now, I am thinking of a google analytics visitor flow style expanding panel.
+Keyboard based navigation for the different hierarchial items and also items within the same hierarchy.
+Creating a click to stick button that will cause the next level of hierarchy to be sticky and occupy the central part of the screen.
+Level based navigation.
+Need to figure out a way to represent empty and leaf tags.
+Hiearchy based search.
+Editable fields to enable xml editing on the fly.
+A button that lets the user download the modified xml file.
+Different represenation for leaf and non leaf nodes.
